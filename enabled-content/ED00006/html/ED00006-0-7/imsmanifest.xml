@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<manifest identifier="ej4-732f76f6-e522-4cbc-bd1d-65c3c202a508" version="1"
+  xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2"
+  xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd
+                              http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd
+                              http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="en"><![CDATA[Presentation Skills]]></langstring>
+        </title>
+        <description>
+          <langstring xml:lang="en"><![CDATA[Your job is to deliver a presentation with the passion that it deserves.]]></langstring>
+        </description>
+      </general>
+    </lom>
+  </metadata>
+  <organizations default="B0">
+    <organization identifier="B0">
+      <!--****** Title ******-->
+      <title><![CDATA[Presentation Skills]]></title>
+
+      <item identifier="i1" identifierref="r1" isvisible="true">
+        <!--****** Title ******-->
+        <title><![CDATA[Presentation Skills]]></title>
+      </item>
+    </organization>
+  </organizations>
+
+  <resources>
+    <resource identifier="r1" type="webcontent" adlcp:scormtype="sco" href="rxd/indexAPI.html">
+      <!--****** FILES ******-->
+      <file href="rxd/indexAPI.html"/>
+      <file href="rxd/blank.html"/>
+      <file href="rxd/goodbye.html"/>
+      <file href="rxd/configuration.js"/>
+    </resource>
+  </resources>
+</manifest>
