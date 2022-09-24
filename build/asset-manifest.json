@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-ecommerce-template/static/css/main.bb5ff2e5.chunk.css",
+    "main.js": "/react-ecommerce-template/static/js/main.b2a70bf7.chunk.js",
+    "main.js.map": "/react-ecommerce-template/static/js/main.b2a70bf7.chunk.js.map",
+    "runtime-main.js": "/react-ecommerce-template/static/js/runtime-main.68b9d772.js",
+    "runtime-main.js.map": "/react-ecommerce-template/static/js/runtime-main.68b9d772.js.map",
+    "static/js/2.ae0da6c0.chunk.js": "/react-ecommerce-template/static/js/2.ae0da6c0.chunk.js",
+    "static/js/2.ae0da6c0.chunk.js.map": "/react-ecommerce-template/static/js/2.ae0da6c0.chunk.js.map",
+    "index.html": "/react-ecommerce-template/index.html",
+    "static/css/main.bb5ff2e5.chunk.css.map": "/react-ecommerce-template/static/css/main.bb5ff2e5.chunk.css.map",
+    "static/js/2.ae0da6c0.chunk.js.LICENSE.txt": "/react-ecommerce-template/static/js/2.ae0da6c0.chunk.js.LICENSE.txt",
+    "static/media/banner-0.289a242c.jpg": "/react-ecommerce-template/static/media/banner-0.289a242c.jpg",
+    "static/media/banner-1.09682353.jpg": "/react-ecommerce-template/static/media/banner-1.09682353.jpg",
+    "static/media/banner-2.a6d3d66f.jpg": "/react-ecommerce-template/static/media/banner-2.a6d3d66f.jpg",
+    "static/media/nillkin-case-1.60dec4fb.jpg": "/react-ecommerce-template/static/media/nillkin-case-1.60dec4fb.jpg",
+    "static/media/nillkin-case.39a022bd.webp": "/react-ecommerce-template/static/media/nillkin-case.39a022bd.webp"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68b9d772.js",
+    "static/js/2.ae0da6c0.chunk.js",
+    "static/css/main.bb5ff2e5.chunk.css",
+    "static/js/main.b2a70bf7.chunk.js"
+  ]
+}
